@@ -1,11 +1,20 @@
 on:
   workflow_dispatch:
+    #inputs:
+    #  mode:
+    #    description: "Mode of the workflow (update, replace)"
+    #    default: "update"
+    #    required: false
 
 jobs:
   post:
+    # if: ${{ github.event_name == 'workflow_dispatch' && (github.event.inputs.mode == 'update' || github.event.inputs.mode == 'replace') }}
+    # ensure it is one of the supported mode (excessive? yes, quality assurance? also yes.)
+    if: ${{ github.repository_owner == 'TinkerStorm' }}
     runs-on: ubuntu-latest
     concurrency: auto-update
     strategy:
+      max-parallel: 1
       matrix:
         include:
           - webhook: INFO_CHANNEL_WEBHOOK
@@ -24,6 +33,7 @@ jobs:
         run: |
           node -v
           npm install
+          git pull # ensure the latest cache is pulled
       - name: Run sequence
         run: npm run sequence -- --config ${{ matrix.config }}
         env:
