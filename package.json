@@ -1,0 +1,11 @@
+{
+  "name": "channel-backup-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sequence": "channel-backup"
+  },
+  "dependencies": {
+    "channel-backup": "^1.1.1"
+  }
+}
