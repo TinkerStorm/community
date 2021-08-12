@@ -23,3 +23,11 @@ jobs:
         run: npm run sequence --config ${{ matrix.config }}
         env:
           WEBHOOK_URL: ${{ matrix.webhook }}
+
+      - name: Push cache update if any
+        run: |
+          if [ "$(git status ./cache.json --porcelain)" ]; then
+            git add ./cache.json
+            git commit -m "auto: Update cache.json"
+            git push
+          fi
