@@ -1,0 +1,25 @@
+on:
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    concurrency: auto-update
+    strategy:
+      matrix:
+        include:
+          - webhook: ${{ secrets.INFO_CHANNEL_WEBHOOK }}
+            config: ./info/config.json
+          - webhook: ${{ secrets.README_CHANNEL_WEBHOOK }}
+            config: ./readme/config.json
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Run sequence
+        run: npm run sequence --config ${{ matrix.config }}
+        env:
+          WEBHOOK_URL: ${{ matrix.webhook }}
