@@ -13,7 +13,7 @@
 :speech_balloon: <#684013196700418051> - A place to meet other members of the server.
 :roller_coaster: <#684015167599935538> - What interests you?
 :helmet_with_cross: <#684015009755693071> - Get help with our projects.
-:maintenance: <#684048051740213358> - Testing channel for formatting and such.
+:construction: <#684048051740213358> - Testing channel for formatting and such.
 
 > **Project Channels**
 
