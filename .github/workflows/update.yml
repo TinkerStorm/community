@@ -32,6 +32,9 @@ jobs:
       - name: Push cache update if any
         run: |
           if [ "$(git status ./cache.json --porcelain)" ]; then
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+
             git add ./cache.json
             git commit -m "auto: Update cache.json"
             git push
