@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run sequence
-        run: npm run sequence --config ${{ matrix.config }}
+        run: npm run sequence -- --config ${{ matrix.config }}
         env:
           WEBHOOK_URL: ${{ secrets[matrix.webhook] }}
 
