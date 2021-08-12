@@ -18,9 +18,12 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v2
         with:
+          node-version: 16.x
           check-latest: true
       - name: Install dependencies
-        run: npm install
+        run: |
+          node -v
+          npm install
       - name: Run sequence
         run: npm run sequence -- --config ${{ matrix.config }}
         env:
