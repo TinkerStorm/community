@@ -1,0 +1,17 @@
+embeds:
+  - description: |
+      This channel has been backed up using [TinkerStorm/channel-backup](https://github.com/TinkerStorm/channel-backup).
+      If you find a problem, please [create an issue](https://github.com/TinkerStorm/channel-backup/issues/new/choose) on GitHub.
+    color: 7506394 # old Discord blurple (#7289DA)
+    # timestamp: {{ Date.now() }}
+  - author:
+      name: GitHub Sponsors
+      icon_url: https://github.githubassets.com/images/modules/site/home/sponsors-heart.svg
+    color: 15354538
+    description: |
+      **Sponsor <@133659993768591360> on [GitHub](https://github.com/sponsors/sudojunior) or [Ko-Fi](https://ko-fi.com/sudojunior).**
+
+  - color: white
+    description: >
+      You can also find me on [Twitter](https://twitter.com/sudojunior) and [Twitch](https://twitch.tv/sudojunior)
+    
