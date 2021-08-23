@@ -21,4 +21,4 @@
 :infinity: Have some common sense. :neutral_face:
 > Exactly what level that is I don't mind, so long as you don't go out of your way to cause a disturbance.
 
-*If you have any questions about what you see in our information channels, please ask a staff member.*
+*If you have any questions about what you see in our information channels or wish to report someone, please ask a staff member (either in <#684015009755693071> or in DMs).*

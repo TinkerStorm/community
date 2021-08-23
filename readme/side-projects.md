@@ -3,7 +3,7 @@
 >   # What had we worked on? #  
 > ```**
 
-:closed_lock_with_key: **[`access-groups` {Action}](<https://github.com/sudojunior/access-groups>)**
+:closed_lock_with_key: **[`access-groups` {GitHub Action}](<https://github.com/sudojunior/access-groups>)**
 > An action to help determine what groups a user belongs to.
 
 :checkered_flag: **[`UnityCheckpoints`](<https://github.com/sudojunior/UnityCheckpoints>)**
