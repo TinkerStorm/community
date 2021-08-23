@@ -1,4 +1,7 @@
-> **Roles**
+> **```ini
+>            [ Roles ]
+>  # What roles are available? #  
+> ```**
 
 :mega: `Server News`
 :satellite_orbital: `Project News`

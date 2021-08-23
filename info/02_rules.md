@@ -1,7 +1,7 @@
-```ini
-  [ Rules ]
-```
-
+> **```ini
+>             [ Rules ]
+>   # We have some ground rules. #  
+> ```**
 :zero: Please read Discord's [Terms of Service](<https://discord.com/terms>) and [Guidelines](<https://discord.com/guidelines>). :passport_control:
 > There are no exceptions, not even for us developers.
 

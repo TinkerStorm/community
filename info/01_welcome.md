@@ -1,6 +1,7 @@
-```ini
-  [ Welcome ]
-```
+> **```ini
+>          [ Welcome Aboard ]
+>   # Take some time to look around. #  
+> ```**
 :tada: **Hello, welcome to TinkerStorm's community server!** :wave:
 
 We are an organization dedicated to researching decisions of users, as well as providing some tools to help developers and community managers.

@@ -1,4 +1,7 @@
-> **Core Projects**
+> **```ini
+>       [ Core Projects ]
+>   # What are we building? #  
+> ```**
 
 **`channel-backup` (<#732700736470646794>)**
 > A command line / actions tool to help Community Managers keep their information channels updated.

@@ -1,5 +1,7 @@
-> **Side Projects**
-> *Includes inactive and archived projects.*
+> **```ini
+>       [ Side Projects ]
+>   # What had we worked on? #  
+> ```**
 
 :closed_lock_with_key: **[`access-groups` {Action}](<https://github.com/sudojunior/access-groups>)**
 > An action to help determine what groups a user belongs to.

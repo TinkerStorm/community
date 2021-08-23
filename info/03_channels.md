@@ -1,8 +1,8 @@
-```ini
-  [ Channels ]
-```
-
-> **Landing Zone**
+> **```ini
+>       [ Channel Navigation ]
+>   # Your map to our community! #  
+> ```**
+**Landing Zone**
 
 :information_source: <#684015580457467970> - *You are here.*
 :mega: <#684015688666447886> - Updates about our server.
