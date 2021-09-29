@@ -11,11 +11,6 @@
 :small_orange_diamond: [In-house Plugins (Monorepo)](<https://github.com/TinkerStorm/channel-backup-plugins>) *Incomplete*
 :small_blue_diamond: [Standard Template](<https://github.com/RocketDragon/channel-backup-template>)
 
-> *{Future} yeoman generators*
-
-> generator-channel-backup
-> generator-channel-backup-plugin
-
 :ferris_wheel: **`markov-storm` (<#732700520174583808>)**
 > A library to assist with terminology connections (artificial AI if you will, but without the AI component at its core).
 
@@ -28,6 +23,17 @@
 <:github:875393524646952980> [GitHub](<https://github.com/sudojunior/journey>)
 :globe_with_meridians: [Website (/en/music)](<https://gitjourney.vercel.app/en/music>)
 
+:axe: **`Hack n' Slash` (<@891363778808152125>)**
+> A slash commands bot using guild commands as a custom commands alternative.
+
+<:github:875393524646952980> [GitHub](https://github.com/sudojunior/hack-n-slash)
+:robot: [Invite](https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands)
+
 **Future**
 
-:knife: `Deception`
+:knife: `Deception` (<@454392901422809118>)
+
+> *{Future} yeoman generators*
+
+> generator-channel-backup
+> generator-channel-backup-plugin
