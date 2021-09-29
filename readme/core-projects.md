@@ -26,8 +26,8 @@
 :axe: **`Hack n' Slash` (<@891363778808152125>)**
 > A slash commands bot using guild commands as a custom commands alternative.
 
-<:github:875393524646952980> [GitHub](https://github.com/sudojunior/hack-n-slash)
-:robot: [Invite](https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands)
+<:github:875393524646952980> [GitHub](<https://github.com/sudojunior/hack-n-slash>)
+:robot: [Invite](<https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands>)
 
 **Future**
 
