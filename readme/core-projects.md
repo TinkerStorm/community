@@ -8,8 +8,6 @@
 
 <:github:875393524646952980> [GitHub](<https://github.com/TinkerStorm/channel-backup<>)
 :package: [NPM](<https://npmjs.com/package/channel-backup>)
-:small_orange_diamond: [In-house Plugins (Monorepo)](<https://github.com/TinkerStorm/channel-backup-plugins>) *Incomplete*
-:small_blue_diamond: [Standard Template](<https://github.com/RocketDragon/channel-backup-template>)
 
 :ferris_wheel: **`markov-storm` (<#732700520174583808>)**
 > A library to assist with terminology connections (artificial AI if you will, but without the AI component at its core).
@@ -36,8 +34,3 @@
 **Future**
 
 :knife: `Deception` (<@454392901422809118>)
-
-> *{Future} yeoman generators*
-
-> generator-channel-backup
-> generator-channel-backup-plugin
