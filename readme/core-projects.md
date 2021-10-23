@@ -29,6 +29,10 @@
 <:github:875393524646952980> [GitHub](<https://github.com/sudojunior/hack-n-slash>)
 :robot: [Invite](<https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands>)
 
+:park: **`In Retrospect` (<#898569204058427393>)**
+> A community *forum* of sorts, that combines the addition of threads with the community collaboration in an ever changing discussion.
+> _Information and rules about this channel are found in its topic, archived threads can be searched._
+
 **Future**
 
 :knife: `Deception` (<@454392901422809118>)

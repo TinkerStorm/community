@@ -7,6 +7,7 @@
 :information_source: <#684015580457467970> - *You are here.*
 :mega: <#684015688666447886> - Updates about our server.
 :ship: <#684016041445163008> - A direct bridge between the GitHub organizations and Discord.
+:park: <#898569204058427393> - A community project exploring topics of interest... and also making use of threads.
 
 > **Useful Guides**
 
