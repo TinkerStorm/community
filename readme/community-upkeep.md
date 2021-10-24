@@ -1,1 +1,2 @@
-> <:github:875393524646952980> **[Community Upkeep {GitHub}](<https://github.com/TinkerStorm/community>)**
+> <:github:875393524646952980> **[Community Upkeep {GitHub}](<https://github.com/TinkerStorm/community>)** (<#684015580457467970> and <#872875899727523861>)
+> <:github:875393524646952980> **[Discord Markdown Syntax {GitHub}](<https://github.com/TinkerStorm/discord-markdown-syntax>)** (<#878952736446631936> and <#879034782770692118>)
