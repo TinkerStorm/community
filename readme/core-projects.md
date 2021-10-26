@@ -3,34 +3,36 @@
 >   # What are we building? #  
 > ```**
 
-:card_box: **`channel-backup` (<#732700736470646794>)**
+💾 **`channel-backup` (<#732700736470646794>)**
 > A command line / actions tool to help Community Managers keep their information channels updated.
 
-<:github:875393524646952980> [GitHub](<https://github.com/TinkerStorm/channel-backup<>)
-:package: [NPM](<https://npmjs.com/package/channel-backup>)
+<:github:875393524646952980> [GitHub](<https://github.com/TinkerStorm/channel-backup>)
+📦 [NPM](<https://npmjs.com/package/channel-backup>)
+📰 [dev.to](https://dev.to/junior/keeping-discord-channels-up-to-date-fgn)
 
-:ferris_wheel: **`markov-storm` (<#732700520174583808>)**
+🤖 **`b127` (<#732700520174583808>)**
 > A library to assist with terminology connections (artificial AI if you will, but without the AI component at its core).
+> *Named after [Bumblebee](https://en.wikipedia.org/wiki/Bumblebee_(film)).*
 
 <:github:875393524646952980> [GitHub](<https://github.com/TinkerStorm/markov-storm>)
-:face_with_monocle: [Sentence Parser {Runkit}](<https://runkit.com/playthefallen/sentence-parser>)
+🧐 [Sentence Parser {Runkit}](<https://runkit.com/playthefallen/sentence-parser>)
 
-:map: **`journey` (<#732861238085943296>)**
+🗺 **`journey` (<#732861238085943296>)**
 > Exploring the connections that Music, Movies, Games, People, etc. have while attempting to push a static site generator to its limits.
 
 <:github:875393524646952980> [GitHub](<https://github.com/sudojunior/journey>)
-:globe_with_meridians: [Website (/en/music)](<https://gitjourney.vercel.app/en/music>)
+🌐 [Website (/en/music)](<https://gitjourney.vercel.app/en/music>)
 
-:axe: **`Hack n' Slash` (<@891363778808152125>)**
+🪓 **`Hack n' Slash` (<@891363778808152125>)**
 > A slash commands bot using guild commands as a custom commands alternative.
 
 <:github:875393524646952980> [GitHub](<https://github.com/sudojunior/hack-n-slash>)
-:robot: [Invite](<https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands>)
+🤖 [Invite](<https://discord.com/api/oauth2/authorize?client_id=891363778808152125&permissions=0&scope=bot%20applications.commands>)
 
 🏞 **`In Retrospect` (<#898569204058427393>)**
 > A community *forum* of sorts, that combines the addition of threads with the community collaboration in an ever changing discussion. *Information and rules about this channel are found in its topic, archived threads can be searched.*
 
 **Future**
 
-:knife: `Deception` (<@454392901422809118>)
+🔪 `Deception` (<@454392901422809118>)
 > How well do you know your friends? :smiling_imp:
