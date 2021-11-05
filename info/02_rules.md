@@ -18,6 +18,9 @@
 :four: If you see something against the rules or something that makes you feel unsafe, let staff know. :rotating_light:
 > We want this server to be a welcoming space!
 
+:question: If you have a question, just ask it. Don't ask... to ask.
+> You are urged to have patience, and understand that not everyone would have an answer to your liking.
+
 :infinity: Have some common sense. :neutral_face:
 > Exactly what level that is I don't mind, so long as you don't go out of your way to cause a disturbance.
 
