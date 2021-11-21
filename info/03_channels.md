@@ -7,12 +7,12 @@
 :information_source: <#684015580457467970> - *You are here.*
 :mega: <#684015688666447886> - Updates about our server.
 :ship: <#684016041445163008> - A direct bridge between the GitHub organizations and Discord.
-:park: <#898569204058427393> - A community project exploring topics of interest... and also making use of threads.
 
 > **Useful Guides**
 
 :pen_ballpoint: <#878952736446631936> - Markup guide for Discord.
 :scroll: <#879034782770692118> - Code syntax using examples from [Highlight.js](https://highlightjs.org/).
+:bookmark_tabs: <#911949513877508116>
 
 > **Meeting Point**
 
@@ -24,6 +24,7 @@
 > **Project Channels**
 
 :books: <#872875899727523861> - A list of all our projects.
+> Check here for **Creative Storm** details (category rules and navigation).
 :satellite_orbital: <#874681305537863721> - A channel for project updates.
 
 > **Voice Channels**
