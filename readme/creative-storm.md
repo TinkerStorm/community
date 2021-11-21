@@ -17,7 +17,7 @@ A community *forum* of sorts, that combines the addition of threads with the com
 :two: Spoilers should be marked, but not spoiler spam.
 > Either make use of ||spoiler|| tags or add `SPOILER` (all caps) in the thread title.
 > You are guarunteed to spoil aspects of a game, film or show episode if it involves discussing the plot itself.
->
+> 
 > Spoiler spam may result in loss of access to this category or the server itself, if it persists.
 
 :three: You can have **one** message per topic until you should think about opening a thread.
