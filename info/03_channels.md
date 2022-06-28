@@ -12,7 +12,6 @@
 
 :pen_ballpoint: <#878952736446631936> - Markup guide for Discord.
 :scroll: <#879034782770692118> - Code syntax using examples from [Highlight.js](https://highlightjs.org/).
-:bookmark_tabs: <#911949513877508116>
 
 > **Meeting Point**
 
