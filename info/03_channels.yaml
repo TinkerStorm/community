@@ -1,0 +1,51 @@
+embeds:
+  - author:
+      name: Channels
+      icon_url: https://cdn.discordapp.com/emojis/585783907841212418
+    color: 5352813
+    description: |
+      :information_source: <#684015580457467970> - Your first stop for community guidence.
+      :dividers: <#872875899727523861> - Information about our projects.
+    fields:
+      - name: ":newspaper: `News Feeds`"
+        value: |
+          :mega: <#684015688666447886> - Updates about our server.
+          :satellite_orbital: <#874681305537863721> - Updates about our projects.
+          :frame_photo: <#980491502688014416> - Staff picks from `Creative Storm`.
+          :ship: <#684016041445163008> - A direct feed between our GitHub organizations and Discord.
+          :minidisc: <#934127674706780171> - News about Discord's client changes.
+          :bird: <#941001491873931274> - News from other communities.
+
+      - name: ":thunder_cloud_rain: `Creative Storm`"
+        value: |
+          :map: `#navigator`
+          :books: `#guides`
+          :abacus: `#interests`
+          :fire: `#hot-topic`
+          :bulb: <#980491552302440538>
+          :recycle: <#980491469620150344>
+      
+      - name: ":park: `Common Space`"
+        value: |
+          :speech_balloon: <#684013196700418051> - General discussion.
+          :roller_coaster: <#684015167599935538> - What interests you?
+          :helmet_with_cross: <#684015009755693071> - Get help with our projects.
+          :construction: <#684048051740213358> - Testing channel for formatting and commands.
+
+          :microphone2: <#684013196700418052>
+          :microphone2: <#684015332708712516>
+      
+      - name: ":mailbox_with_mail: `Active Projects`"
+        value: |
+          :paperclips: <#732700520174583808> - Terminology connections, budget artificial intelligence.
+          :printer: <#732700736470646794> - Terminal tool to help with channel backups.
+          > *Also powers our info channels.*
+          :bookmark: <#911943261919277068> - A platform for stories written by the community.
+
+      - name: ":stadium: `Event Stage`"
+        value: |
+          :speech_balloon: <#934137523079372802>
+          :grey_question: <#934137546798157854>
+          :magic_wand: <#934137572106584104>
+
+          :speaking_head: <#934137618818547725>
