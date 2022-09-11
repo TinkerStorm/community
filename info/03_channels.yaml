@@ -4,7 +4,7 @@ embeds:
       icon_url: https://cdn.discordapp.com/emojis/585783907841212418
     color: 5352813
     description: |
-      :information_source: <#684015580457467970> - Your first stop for community guidence.
+      :information_source: <#684015580457467970> - Your first stop for community guidance.
       :dividers: <#872875899727523861> - Information about our projects.
       :compass: <#1011643957345792030> - Information about the `Creative Storm` category.
     fields:
