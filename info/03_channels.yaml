@@ -6,6 +6,7 @@ embeds:
     description: |
       :information_source: <#684015580457467970> - Your first stop for community guidence.
       :dividers: <#872875899727523861> - Information about our projects.
+      :compass: <#1011643957345792030> - Information about the `Creative Storm` category.
     fields:
       - name: ":newspaper: `News Feeds`"
         value: |
