@@ -25,6 +25,9 @@ A community *forum* of sorts, that combines the addition of threads with the com
 
 **Channels**
 
+:magic_wand: <#930893608540860447> - Share code that might not be *conventional* to the average programmer.
+> *...or just code you want to share to others.*
+> ||What magic is this, it's certainly not Hogwarts with the scripture they're using?||
 🕹 <#898569204058427393> - Write about a video game *or board game*...
 🎞 <#911943974749630494> - Write about a show or film (or music record?)...
 📚 <#911944053954863104> - What adventures do you have for us?
