@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "sequence": "channel-backup"
+    "sequence:info": "channel-backup --config ./info/config.json",
+    "sequence:readme": "channel-backup --config ./readme/config.json"
   },
   "dependencies": {
     "channel-backup": "^1.1.1"
