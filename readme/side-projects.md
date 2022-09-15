@@ -17,7 +17,7 @@
 > A very small tweak to how discussions behave when in categories. ([Original Discussion](<https://github.com/github/feedback/discussions/2899>))
 > *Allows you to create a new discussion based on the discussion category you're viewing.*
 
-🌌 **[`TagSpace` {Archived}](<https://github.com/sudojunior/TagSpace)**
+🌌 **[`TagSpace` {Archived}](<https://github.com/sudojunior/TagSpace>)**
 > A tag bot concept to apply reddit-like containers to a Discord bot (as well as using a folder instead of a standard database).
 > *Made using `eris@0.8.6`, `fuzzy@0.1.3`, `lodash@4.17.10`, `minimist@1.2.0` and `vm2@3.6.2`.*
 

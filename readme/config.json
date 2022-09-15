@@ -1,8 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/TinkerStorm/channel-backup/main/schemas/config.json",
   "files": [
-    "./readme/*-projects.md",
-    "./readme/creative-storm.md",
-    "./readme/community-upkeep.md"
+    "./readme/overview.yaml",
+    "./readme/*-projects/*.yaml",
+    "./readme/credits.yaml",
+    "./readme/contributions.yaml",
+    "./readme/community-upkeep.yaml",
+    "./util/table-of-contents.yaml"
   ]
 }

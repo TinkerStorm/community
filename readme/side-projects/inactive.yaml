@@ -1,0 +1,27 @@
+embeds:
+  - title: "Idle & Shelved Projects"
+    color: 7300755
+    description: |
+      These projects don't have as much of a presence than other mainstream projects, and are not often contributed to. But they are usually created (or otherwise depended upon) by other projects.
+
+      *All publically available projects can be found on GitHub.*
+    fields:
+      - name: ":game_die: `shuffle-theory`"
+        inline: true
+        value: |
+          A look into how different approaches can effect the results of a shuffle, and the implications that come with them at scale.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/TinkerStorm/shuffle-theory)
+
+      - name: ":closed_lock_with_key: `access-groups`"
+        inline: true
+        value: |
+          An action to help determine what groups a user belongs to.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/sudojunior/access-groups)
+      - name: ":checkered_flag: `UnityCheckpoints`"
+        inline: true
+        value: |
+          A basic system to handle level checkpoints and 'respawning'.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/sudojunior/UnityCheckpoints)
