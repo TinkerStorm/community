@@ -1,10 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/TinkerStorm/channel-backup/main/schemas/config.json",
   "files": [
-    "./readme/overview.yaml",
-    "./readme/*-projects/*.yaml",
+    "./readme/projects/*.yaml",
     "./readme/credits.yaml",
     "./readme/contributions.yaml",
+    "./readme/archives.yaml",
     "./readme/community-upkeep.yaml",
     "./util/table-of-contents.yaml"
   ]

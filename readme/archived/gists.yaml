@@ -2,7 +2,7 @@ embeds:
   - title: Gist Projects
     color: 1875266
     description: |
-      Smaller projects that didn't get their own repository, but still have a distinct function seperate from anything else.
+      Smaller projects that didn't get their own repository, but still have a distinct function separate from anything else.
     fields:
       - name: ":calendar: Year Range Notation"
         inline: true

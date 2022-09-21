@@ -2,6 +2,7 @@ embeds:
   - title: "`story-engine`"
     url: https://github.com/TinkerStorm/story-engine
     color: 46203
+    timestamp: 1637439297
     thumbnail:
       url: https://cdn.discordapp.com/avatars/911374649357660210/0306b94fc8a99698b5ebe96a604ad59b.webp?size=80
     description: >

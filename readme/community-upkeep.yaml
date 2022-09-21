@@ -1,10 +1,9 @@
-## !TO-DO!
-
 embeds:
   - color: 2777762
     thumbnail:
       url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/floppy-disk_1f4be.png
-    description: '[`channel-backup`](https://github.com/TinkerStorm/channel-backup) is used to backup our information channels, allowing use of embeds and components. If you find an issue and would like to fix it yourself, you are more than welcome to do so.'
+    description: |
+      [`channel-backup`](https://github.com/TinkerStorm/channel-backup) is used to backup our information channels, allowing use of embeds and components. If you find an issue and would like to fix it yourself, you are more than welcome to do so.
 components:
   - type: 1
     components:

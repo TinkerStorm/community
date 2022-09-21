@@ -13,7 +13,7 @@ components:
         label: Twemoji
         url: https://twemoji.twitter.com/
         emoji:
-          name: 🎉
+          name: "\U0001F389"
       - type: 2
         style: 5
         label: GitHub
@@ -25,4 +25,4 @@ components:
         label: Emojipedia
         url: https://emojipedia.org
         emoji:
-          name: 📖
+          name: "\U0001F4D6"

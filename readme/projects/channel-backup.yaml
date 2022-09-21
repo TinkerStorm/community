@@ -6,6 +6,7 @@ embeds:
       A command line tool to help Community Managers keep their information channels updated.
 
       > `channel-backup -c ./readme/config.json`
+    timestamp: 1594825424
     thumbnail:
       url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/floppy-disk_1f4be.png
 components:
