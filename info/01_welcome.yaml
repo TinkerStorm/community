@@ -27,3 +27,8 @@ components:
         url: https://twitter.com/TinkerStorm
         emoji: 
           id: "314349922877046786"
+      - type: 2
+        style: 5
+        url: https://github.com/sponsors/sudojunior
+        emoji:
+          id: "946189993536262194"
