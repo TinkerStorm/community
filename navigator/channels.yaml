@@ -1,0 +1,41 @@
+embeds:
+  - title: Channels
+    description: |
+      Some channels may have their own rules, or provide access to additional utilities.
+    footer:
+      text: >
+        If you have a post you'd like to share,
+        but don't see a tag it would fit under,
+        please ask a staff member.
+    fields:
+      - name: ":guide_dog: <#1019643103088476200>" # guides
+        value: |
+          We may not have all the answers, but we can point you in the right direction. Guides are a great way to learn about a topic, and we have a few of them here.
+      - name: ":bulb: <#1019642988940500992>" # interests
+        value: |
+          This is a place to share your interests, hobbies, and passions. We have a few channels for specific interests, but if you don't see one that fits, feel free to make a new one.
+
+          *This forum has a tag for **spoilers** ||like these||, please use them as you see fit in accordance with our rules.*
+
+          *This forum can provide access to a webhook, please ask a staff member if you'd like to use it.*
+      - name: ":fire: <#1019643152333807676>" # hot-topic
+        value: |
+          What's your hot take? This is a place to share your opinions on a variety of topics, and to discuss them with others. Staff will handle creating these topics, but if you have a suggestion, feel free to ask a staff member.
+      - name: ":pushpin: <#980491552302440538>" # progress
+        value: |
+          We all have goals, and we all want to share them. This is a place to share your progress, and to discuss your goals with others. You can also share your progress on a hobby, or a skill you're learning. This is a place to share your progress, and to get feedback from others *in threads*.
+      - name: ":recycling: <#980491469620150344>" # recycling
+        value: |
+          *Got a topic which you like, but aren't very confident with?
+          Or would prefer to see someone else take up the opportunity?*
+
+          Share your ideas, your theories and your thoughts here, and let someone else take the lead. *Mention the forum channel you think it would fit in, and any appropriate tags that would fit.*
+
+  - title: Utilities
+    description: |
+      Some channels provide access to webhooks, allowing for use of embeds or link components. If you'd like to use one, please ask a staff member.
+
+      *Use of link components and masked links are currently limited to `Regulars`, `GitHub Sponsors` and `Contributors`.*
+
+    footer:
+      text: If you have a suggestion for a new channel, please ask a staff member.
