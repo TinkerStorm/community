@@ -28,10 +28,9 @@ Get-ChildItem ./assets/*.svg | ForEach-Object {
 
 In order to account for the icon being a circle, the svg needs to be modified to have an additional square border.
 - A border of 288px is enough to account for the `50%` radius of the css border.
-  > `$256 * 2 = 512, $ * 1.5 = 384, $ * 1.125 = 288`
+  > `$ * 2 = 512, $ * 1.5 = 384, $ * 1.125 = 288`
 
 You may use any tool you like, so long as the image subject remains centered and the image is square.
-  
 
 ## Instructions to run
 

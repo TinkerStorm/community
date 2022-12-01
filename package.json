@@ -8,6 +8,6 @@
     "sequence:navigator": "channel-backup --config ./navigator/config.json"
   },
   "dependencies": {
-    "channel-backup": "^1.1.1"
+    "channel-backup": "^1.2.0"
   }
 }
