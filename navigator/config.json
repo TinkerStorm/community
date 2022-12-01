@@ -4,6 +4,7 @@
     "./navigator/header.yaml",
     "./navigator/rules.yaml",
     "./navigator/channels.yaml",
+    "./navigator/stage.yaml",
     "./navigator/recycling.yaml"
   ]
 }

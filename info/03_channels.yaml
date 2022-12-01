@@ -13,6 +13,7 @@ embeds:
           :mega: <#684015688666447886> - Updates about our server.
           :satellite_orbital: <#874681305537863721> - Updates about our projects.
           :frame_photo: <#980491502688014416> - Staff picks from `Creative Storm`.
+          
           :ship: <#684016041445163008> - A direct feed between our GitHub organizations and Discord.
           :minidisc: <#934127674706780171> - News about Discord's client changes.
           :bird: <#941001491873931274> - News from other communities.
@@ -29,7 +30,7 @@ embeds:
       
       - name: ":mailbox_with_mail: `Active Projects`"
         value: |
-          :books: <#1019758358628155473> - A collection of project notes.
+          :books: <#1019758358628155473> - A collection of project notes from collaborators.
 
           :paperclips: <#732700520174583808> - Terminology connections, budget artificial intelligence.
           :printer: <#732700736470646794> - Terminal tool to help with channel backups.

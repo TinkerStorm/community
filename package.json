@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "sequence:info": "channel-backup --config ./info/config.json",
-    "sequence:readme": "channel-backup --config ./readme/config.json"
+    "sequence:readme": "channel-backup --config ./readme/config.json",
+    "sequence:navigator": "channel-backup --config ./navigator/config.json"
   },
   "dependencies": {
     "channel-backup": "^1.1.1"
