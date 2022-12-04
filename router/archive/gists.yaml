@@ -1,0 +1,50 @@
+embeds:
+  - title: Gist Projects
+    color: 1875266 # #1C9D42 - Forest Green
+    description: |
+      Smaller projects that didn't get their own repository, but still have a distinct function separate from anything else. These are usually a one-off, but can be used as a reference for other projects. Keep in mind that these may be outdated, and may not work as originally intended.
+
+      If you would be interested in seeing one of these projects explored further, please let us know in <#684015009755693071>.
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/puzzle-piece_1f9e9.png
+    footer:
+      text: The Archives
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+    
+    fields:
+      - name: ":calendar: Year Range Notation"
+        inline: true
+        value: |
+          'expand' and 'shrink' year ranges, made in about an hour after an initial version in js only with the expand function.
+
+          > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/ab06cc7583726f1c521b9019c79904ad)
+
+      - name: ":shushing_face: Ephemeral Whisper"
+        inline: true
+        value: |
+          A proof of concept to use `slash-create` as a means to send ephemeral messages between users (**NOT ADVISED**).
+
+          > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/00bb89b85a9f6c7f2a10b9882f95bbeb)
+      - name: ":construction_site: Discord Embed Builder"
+        inline: true
+        value: |
+          An overcomplicated embed builder (definition file) **attempted** in TypeScript.
+          
+          > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/797d0637e9a43c0bc59745fd9ef299e9)
+      - name: ":chart_with_upwards_trend: 'Leadercord'"
+        inline: true
+        value: |
+          An attempt to build a minimal leaderboard system for Discord - which was later abandoned.
+
+          > Complications between knowing how to store and sort data, made this project more of a headache than it was worth. I may revisit this in the future, but for now, it's shelved without source code - as it never reached a working state.
+
+          > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/13056aa1be7a049a51bb30c85eb6d90b)
+      
+      - name: "🔍 `slash-create` Wildcard Components"
+        inline: true
+        value: |
+          A proof-of-concept to add wildcard components to interactions with `slash-create`, built for Story Engine - which was later native to the library itself with [#188](https://github.com/Snazzah/slash-create/pull/188).
+
+          > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/e720cc1083c08d1258e9835d692b49b1)
+
+components: null

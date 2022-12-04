@@ -1,0 +1,46 @@
+embeds:
+  - title: "`Creative Storm`"
+    color: 5284533 # #50A2B5 - Cadet Blue
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/cloud-with-lightning-and-rain_26c8-fe0f.png
+    description: |
+      This is a place to share guides, interests and progress. It may not look like much for being confined to a single category, but we are willing to put Discord through it's paces to make it work.
+    footer:
+      text: City Hall
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/office-building_1f3e2.png
+
+components:
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        placeholder: Select a page to read
+        options:
+          - label: Eye of the Storm
+            value: TinkerStorm/community@main#router/creative-storm/$eye-of-the-storm.yaml
+            emoji:
+              name: ⛈
+          - label: Rules (Page 1)
+            value: TinkerStorm/community@main#router/creative-storm/01_rules.yaml
+            emoji:
+              id: 781581022059692043
+          - label: Channels (Page 2)
+            value: TinkerStorm/community@main#router/creative-storm/02_channels.yaml
+            emoji:
+              id: 585783907841212418
+          - label: Webhooks (Page 3)
+            value: TinkerStorm/community@main#router/creative-storm/03_webhooks.yaml
+            emoji:
+              name: "\U0001F578"
+          - label: Salvage (Page 4)
+            value: TinkerStorm/community@main#router/creative-storm/04_salvage.yaml
+            emoji:
+              name: ♻
+  - type: 1
+    components:
+      - type: 2
+        style: 4
+        label: Return to City Hall
+        custom_id: btn-msg:TinkerStorm/community@main#router/city-hall/$front-desk.yaml
+        emoji:
+          name: 🏛

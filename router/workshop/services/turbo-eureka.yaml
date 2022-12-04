@@ -1,0 +1,36 @@
+embeds:
+  - title: Turbo Eureka
+    url: https://github.com/TinkerStorm/turbo-eureka
+    color: 46203 # #00B47B - Dark cyan
+    timestamp: 2022-11-13T14:05:04Z
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/rocket_1f680.png
+    description: |
+      A bot for handling message components on webhooks by utilizing pattern triggers and encoded state.
+
+      If you need help setting this up, drop by <#684015009755693071> and we'll be happy to help you out.
+
+      *This service is currently used to power the menu system in our server.*
+    footer:
+      text: Workshop
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/hammer-and-wrench_1f6e0-fe0f.png
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        label: Add the bot
+        url: https://discord.com/api/oauth2/authorize?client_id=911374649357660210&permissions=0&scope=bot%20applications.commands
+        emoji:
+          name: "\U0001F916"
+      - type: 2
+        style: 5
+        url: https://github.com/TinkerStorm/turbo-eureka
+        emoji:
+          id: 875393771112652840
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        emoji:
+          name: "\U0001F6E0"

@@ -1,0 +1,36 @@
+# 1041078465274847312 - Turbo Eureka
+embeds:
+  - title: How do we keep the lights on?
+    color: 10416920 # #9EF318 - Green Yellow
+    description: |
+      [`channel-backup`](https://github.com/TinkerStorm/channel-backup) is used to backup our information channels, allowing use of embeds and components. If you find an issue and would like to fix it yourself, you are more than welcome to do so.
+
+      We also use <@1041078465274847312> to manage the menu you've been using to navigate this guide, and any other webhooks making use of components - the service itself was built to work in conjunction with our `channel-backup` module.
+
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/light-bulb_1f4a1.png
+    footer:
+      name: City Hall
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/classical-building_1f3db-fe0f.png
+
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        label: Upkeep
+        url: https://github.com/TinkerStorm/community
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        label: Markdown Syntax
+        url: https://github.com/TinkerStorm/discord-markdown-syntax
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        emoji:
+          name: "\U0001F6E0"

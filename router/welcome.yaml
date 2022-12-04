@@ -1,0 +1,39 @@
+embeds:
+  - author:
+      name: Hello there!
+      icon_url: https://cdn.discordapp.com/emojis/784885376183566388
+    description: |
+      We are an organization dedicated to researching decisions of users, as well as providing some tools to help developers and community managers. If you have any questions about our projects, feel free to ask us in <#684015009755693071>.
+
+      Other than that, we hope that you'll stick around to see what we're up to!
+    color: 2777762 # #2A62A2 - *Contributor Blue* / ~Sapphire
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 3
+        label: Metro
+        custom_id: btn-msg:TinkerStorm/community@main#router/navigator.yaml
+        emoji:
+          name: 🚇
+      - type: 2
+        style: 5
+        url: https://github.com/TinkerStorm
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        url: https://twitter.com/TinkerStorm
+        emoji: 
+          id: "314349922877046786"
+      - type: 2
+        style: 5
+        url: https://tinkerstorm.github.io/
+        disabled: true
+        emoji:
+          name: 🌐
+      - type: 2
+        style: 5
+        url: https://github.com/sponsors/sudojunior
+        emoji:
+          id: "946189993536262194"

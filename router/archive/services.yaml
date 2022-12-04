@@ -1,0 +1,33 @@
+embeds:
+  - title: "Shelved Services"
+    color: 14263397 # #D9A465 - Sandy Brown / Di Serria
+    description: |
+      These services are no longer in use, or are no longer supported. They may be brought back in the future, should interest for them arise once more.
+    thumbnail: #bot
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/robot_1f916.png
+    footer:
+      text: The Archives
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+    fields:
+      - name: ":axe: Hack 'n Slash"
+        value: |
+          A slash commands bot using guild commands as a custom commands alternative - built using [`slash-create`](https://slash-create.js.org/) and [`redis`](https://redis.io/)
+
+          <:github:875393771112652840> [GitHub](https://github.com/TinkerStorm/hack-n-slash)
+        inline: true
+      - name: ":notebook_with_decorative_cover: Story Engine"
+        value: |
+          A discord interactions service that provides a platform for interactive stories written by the community.
+
+          <:github:875393771112652840> [GitHub](https://github.com/TinkerStorm/story-engine)
+          :speaking_head: <#911943261919277068>
+        inline: true
+      - name: ":label: `Tag[ ]Space` - `[>about/me]`"
+        value: |
+          A tag bot with an emphasis on content curation, similar to the way Reddit handles communities. The bot is built with Eris and uses the file system to store data.
+
+          *The code here was created __around__ <t:1583168266:R>, and has not been updated since - it is not representative of my current skill level, and is not likely to perform as well as it once did.*
+
+          <:github:875393771112652840> [GitHub](https://github.com/RocketDragon/TagSpace)
+
+components: null

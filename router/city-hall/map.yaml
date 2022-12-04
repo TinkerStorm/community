@@ -1,0 +1,39 @@
+embeds:
+  - author:
+      name: Community Map
+      icon_url: https://raw.githubusercontent.com/TinkerStorm/community/new-storm-navigator/assets/channel.png
+    color: 7449937 # #71AD51 - Olive Drab
+    description: |
+      :information_source: <#684015580457467970> - Your first stop for community guidance.
+      > Oddly enough, you're reading this right now. We're glad you're here!
+    footer:
+      name: City Hall
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/classical-building_1f3db-fe0f.png
+    fields:
+      - name: ":newspaper: `News Feeds`"
+        value: |
+          :mega: <#684015688666447886> - Updates about our server.
+          :satellite_orbital: <#874681305537863721> - Updates about our projects.
+          :frame_photo: <#980491502688014416> - Staff picks from `Creative Storm`.
+          
+          :ship: <#684016041445163008> - A direct feed between our GitHub organizations and Discord.
+          :minidisc: <#934127674706780171> - News about Discord's client changes.
+          :bird: <#941001491873931274> - News from other communities.
+      
+      - name: ":park: `Common Space`"
+        value: |
+          :speech_balloon: <#684013196700418051> - General discussion.
+          :roller_coaster: <#684015167599935538> - What interests you?
+          :helmet_with_cross: <#684015009755693071> - Get help with our projects.
+          :construction: <#684048051740213358> - Testing channel for formatting and commands.
+
+          :microphone2: <#684013196700418052>
+          :microphone2: <#684015332708712516>
+
+      #- name: ":stadium: `Event Stage`"
+      #  value: |
+      #    :speech_balloon: <#934137523079372802>
+      #    :grey_question: <#934137546798157854>
+      #    :magic_wand: <#934137572106584104>
+
+      #    :speaking_head: <#934137618818547725>

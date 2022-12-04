@@ -1,0 +1,69 @@
+# 684013196700418051 - general
+# 684015009755693071 - support
+embeds:
+  - title: The Workshop
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/hammer-and-wrench_1f6e0-fe0f.png
+    description: |
+      Welcome to the Workshop! This is where you can find all of the projects that we are currently working on. If you would like to contribute, please do by all means! We are always looking for new people to help out with our projects.
+      
+      > If you have any queries or suggestions, please feel free to contact us in <#684013196700418051> or <#684015009755693071>.
+
+      Now that's done, where would you like to go next?
+    color: 13811829 # #D2C075 - ~Tan / ~Lazer
+
+components:
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        placeholder: Select a project 📦
+        options:
+          - label: channel-backup
+            value: TinkerStorm/community@main#router/workshop/projects/channel-backup.yaml
+            description: Helping keep our information channels updated.
+            emoji:
+              name: 💾
+          - label: Turbo Eureka
+            value: TinkerStorm/community@main#router/workshop/services/turbo-eureka.yaml
+            description: A comic reader, with a focus on customization by collection.
+            emoji:
+              name: 🚀
+          - label: Color of the Day
+            value: TinkerStorm/community@main#router/workshop/projects/cotd-action.yaml
+            description: Randomize a role color every day.
+            emoji:
+              name: 🎨
+          - label: slash-create Docs Bot
+            value: TinkerStorm/community@main#router/workshop/services/sc-docs-bot.yaml
+            description: A bot to help with slash-create documentation.
+            emoji:
+              id: "923665409230659714"
+          - label: Deception
+            value: TinkerStorm/community@main#router/workshop/services/deception.yaml
+            description: Who can you trust? (Mafia / Werewolf)
+            emoji:
+              name: 🕵️
+          - label: b127
+            value: TinkerStorm/community@main#router/workshop/projects/b127.yaml
+            description: A false intelligence program using markov chains.
+            emoji:
+              name: 🐝
+          - label: shuffle-theory
+            value: TinkerStorm/community@main#router/workshop/projects/shuffle-theory.yaml
+            description: How different approaches can effect the results of a shuffle.
+            emoji:
+              name: 🎲
+          - label: Slash Counter
+            value: TinkerStorm/community@main#router/workshop/services/slash-counter.yaml
+            description: A serverless button bot, inspired by Reddit's The Button.
+            emoji:
+              name: 📊
+  - type: 1
+    components:
+      - type: 2
+        style: 4
+        label: Return to the Metro
+        custom_id: btn-msg:TinkerStorm/community@main#router/navigator.yaml
+        emoji:
+          name: 🚇

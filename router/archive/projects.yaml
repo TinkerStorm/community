@@ -1,0 +1,34 @@
+embeds:
+  - title: "Shelved Projects"
+    color: 10068893 # #99A39D - Dark Gray
+    description: |
+      These projects don't have as much of a presence than other mainstream projects, and are not often contributed to. While we may not be actively work on them, we may continue to use their code or functionality in other projects. Regardless, they are still available to view.
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/file-cabinet_1f5c4-fe0f.png
+    footer:
+      text: The Archives
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+
+    fields:
+      - name: ":closed_lock_with_key: `access-groups`"
+        inline: true
+        value: |
+          An action to help determine what groups a user belongs to.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/sudojunior/access-groups)
+      - name: ":checkered_flag: `UnityCheckpoints`"
+        inline: true
+        value: |
+          A basic system to handle level checkpoints and 'respawning'.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/sudojunior/UnityCheckpoints)
+      - name: ":passport_control: `validate`"
+        inline: true
+        value: |
+          A minimal argument validation experiment, which didn't get used anyway.
+
+          > Despite being deployed to NPM, it is not functional as a module and is not recommended for use.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/TinkerStorm/validate)
+
+components: null

@@ -1,0 +1,35 @@
+embeds:
+  - author:
+      name: Webhooks - Page 3 of 4
+      icon_url: https://github.com/TinkerStorm/.github/raw/main/assets/webhook.png
+    color: 16755763 # #FFAC33 - Orange
+    description: |
+      Some channels provide access to webhooks, allowing for use of embeds or link components. If you'd like to use one, please ask a staff member.
+
+      Breaking the terms of privileges granted to you by <@&892435570926706688>, may result in the removal of your privileges or extend to general enforcement to ensure the safety of our community.
+
+      But first, a few things you should know...
+    
+    footer:
+      text: City Hall
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/office-building_1f3e2.png
+    
+    fields:
+      - name: ":bust_in_silhouette: Authorship"
+        value: |
+          Use of webhooks is limited to the author of a post, limiting the chance of abusing access by falsely claiming permission.
+      - name: ":information_source: Initial post"
+        value: >
+          The first message *can* originate from a webhook, but you should note yourself as the author in the first message (either as the username or as part of the message body).
+      - name: ":warning: Use of links"
+        value: |
+          Use of link components and masked links are limited to a few roles.
+
+          - <@&684014894819049473>
+          - <@&708092765665493025>
+          - <@&684014953241247775>
+          - <@&708092914990841936>
+
+          *This means you must contribute to the community in some way to use these features. Exemptions are possible, but **extremely rare** to come across - asking for an exemption / bypass, does not get you anywhere near for that matter.*
+
+components: null

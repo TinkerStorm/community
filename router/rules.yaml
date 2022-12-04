@@ -1,0 +1,39 @@
+embeds:
+  - author: 
+      name: Community Rules
+      icon_url: https://raw.githubusercontent.com/TinkerStorm/community/main/assets/rules.png
+    description: |
+      `1.` Be respectful of others.
+      `2.` No spam or unwanted advertising.
+      `3.` Stay on channel topic.
+      `4.` No NSFW content.
+
+      *Finally, we all make mistakes - but it is up to us to decide how we learn from our failures.*
+
+      > For problems that require priority action, ping <@&924644445335461968> in <#684015009755693071> and we will respond as soon as possible.
+    color: 15275542 # #E91616 - ~Crimson
+    footer:
+      text: >
+        If you have any questions about what you see in our information channels or wish to report someone, please ask a staff member (either in support or in DMs).
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        label: Discord Terms
+        url: https://discord.com/terms
+        emoji:
+          name: 🛂
+      - type: 2
+        style: 5
+        label: Discord Guidelines
+        url: https://discord.com/guidelines
+        emoji:
+          name: 📜
+      - type: 2
+        style: 5
+        label: Don't ask to ask.
+        url: https://dontasktoask.com/
+        emoji:
+          name: 🙋
+

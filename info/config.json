@@ -1,6 +1,0 @@
-{
-  "$schema": "https://raw.githubusercontent.com/TinkerStorm/channel-backup/main/schemas/config.json",
-  "files": [
-    "./info/0*.yaml"
-  ]
-}

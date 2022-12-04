@@ -1,0 +1,33 @@
+embeds:
+  - title: "Slash `/counter`"
+    color: 9001415 # #8959C7 - Slate Purple
+    timestamp: 2022-10-07T16:42:31Z
+    description: |
+      A serverless counter bot using message components, and without recorded state - hosted on Cloudflare Workers. We don't expect to use this bot for anything other than demonstration purposes for serverless architecture.
+
+      </counter:1025695978340233276> - *Give it a try in <#684048051740213358>!*
+    footer:
+      text: The Workshop
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/hammer-and-wrench_1f6e0-fe0f.png
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/stopwatch_23f1-fe0f.png
+    
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        url: https://discord.com/api/oauth2/authorize?client_id=1025693259223269406&permissions=0&scope=applications.commands
+        emoji:
+          name: "\U0001F916"
+      - type: 2
+        style: 5
+        url: https://github.com/TinkerStorm/slash-counter
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        emoji:
+          name: "\U0001F6E0"

@@ -1,0 +1,46 @@
+embeds:
+  - title: '`channel-backup`'
+    url: https://github.com/TinkerStorm/channel-backup
+    timestamp: 2020-07-15T15:03:46Z
+    color: 4158973 # #3F75FD - Royal Blue
+    description: |-
+      A command line tool to help Community Managers keep their information channels updated.
+
+      > `channel-backup -c ./readme/config.json`
+
+      *<@1041078465274847312> naturally integrates with this process, allowing for interactive navigation and role management to be handled.*
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/floppy-disk_1f4be.png
+    footer:
+      text: The Workshop
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/hammer-and-wrench_1f6e0-fe0f.png
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        url: https://discord.com/channels/684013196700418048/732700736470646794
+        emoji:
+          id: "585783907841212418"
+      - type: 2
+        style: 5
+        url: https://github.com/TinkerStorm/channel-backup
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        url: https://npmjs.com/package/channel-backup
+        emoji:
+          id: "1011218392641962054"
+      - type: 2
+        style: 5
+        label: dev.to
+        url: https://dev.to/junior/keeping-discord-channels-up-to-date-fgn
+        emoji:
+          name: "\U0001F4D4"
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        emoji:
+          name: "\U0001F6E0"
