@@ -1,0 +1,34 @@
+embeds:
+  - author:
+      name: Rules - Page 1 of 4
+      icon_url: https://cdn.discordapp.com/emojis/781581022059692043
+    color: 14106926 # #D7412E - Chocolate
+    description: |
+      *By definition, these rules extend from <#684015580457467970>.*
+
+      **Repeated violations, may result in category restrictions or extending to general enforcement.**
+    fields:
+      - name: ":one: Stay on topic."
+        value: |
+          Anything not related to a particular forum or channel will be removed without warning.
+
+          Channels may also have their own rules, copies of which can be found in this channel or in the channel topic.
+      - name: ":two: Spoilers should be marked."
+        value: |
+          Either make use of ||spoiler|| tags or add the `#Spoiler` tag (if one is available) *or utilize the thread title as a general warning*. You are guaranteed to spoil aspects of a game, film or show episode if it involves discussing the plot that unfolds.
+
+          If you are unsure of the spoilers your content may discuss, ask a moderator.
+      - name: ":three: Keep to your own topics."
+        value: >
+          There is no need to reply to a thread if you have nothing to add.
+          If you do, you may be asked to move your content to a new thread.
+          If you are unsure of the topic and still want to contribute, ask a the post author or moderator.
+      - name: ":timer: Slow mode is in effect."
+        value: |
+          Forum channels have...
+          - **2 hours** slow mode per post
+          - **15 seconds** per message within a post
+
+          Text channels have a **30 minute** slow mode per message.
+
+components: null

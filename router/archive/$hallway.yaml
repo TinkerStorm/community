@@ -1,0 +1,63 @@
+embeds:
+  - title: The Archives
+    color: 3844289 # #3AA8C1 - Light Sea Green
+    description: |
+      We regularly shelve projects that we no longer work on, or that we have decided to no longer support. We may also bring them back, or continue to work on them in the future - should interest for them arise once more.
+
+      > ***Public** archived / shelved repositories can always be forked. If we make a repository private, we will make a post in <#874681305537863721> explaining why we believe it to be necessary.*
+    footer:
+      text: If you are looking to unarchive a shelved project or channel, please contact a staff member.
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        label: TinkerStorm
+        url: https://github.com/TinkerStorm?type=archived
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        label: RocketDragon
+        url: https://github.com/RocketDragon?type=archived
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/navigator.yaml
+        emoji:
+          name: 🚇
+
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        options:
+          - label: The Hallway
+            value: TinkerStorm/community@main#router/archive/$hallway.yaml
+            emoji:
+              name: 📚
+          - label: Gist Projects
+            value: TinkerStorm/community@main#router/archive/gists.yaml
+            emoji:
+              name: 🧩
+          - label: Jekyll Projects
+            value: TinkerStorm/community@main#router/archive/jekyll.yaml
+            emoji:
+              name: 🌐
+          - label: Shelved Projects
+            value: TinkerStorm/community@main#router/archive/projects.yaml
+            emoji:
+              name: 🗄
+          - label: Shelved Services
+            value: TinkerStorm/community@main#router/archive/services.yaml
+            emoji:
+              name: 🤖
+          - label: Game Jams
+            value: TinkerStorm/community@main#router/archive/projects/game-jams.yaml
+            emoji:
+              name: 🎮

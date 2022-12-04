@@ -1,7 +1,7 @@
 embeds:
   - author: 
       name: Community Rules
-      icon_url: https://cdn.discordapp.com/emojis/781581022059692043
+      icon_url: https://raw.githubusercontent.com/TinkerStorm/community/main/assets/rules.png
     description: |
       `1.` Be respectful of others.
       `2.` No spam or unwanted advertising.
@@ -9,7 +9,9 @@ embeds:
       `4.` No NSFW content.
 
       *Finally, we all make mistakes - but it is up to us to decide how we learn from our failures.*
-    color: 5284533
+
+      > For problems that require priority action, ping <@&924644445335461968> in <#684015009755693071> and we will respond as soon as possible.
+    color: 15275542 # #E91616 - ~Crimson
     footer:
       text: >
         If you have any questions about what you see in our information channels or wish to report someone, please ask a staff member (either in support or in DMs).
@@ -34,3 +36,4 @@ components:
         url: https://dontasktoask.com/
         emoji:
           name: 🙋
+

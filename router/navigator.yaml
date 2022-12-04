@@ -1,0 +1,37 @@
+embeds:
+  - title: Community Metro
+    color: 16027704 # #F97154 - ~Coral / ~Bittersweet
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/metro_1f687.png
+    description: |
+      Welcome to our Community Metro! This is a message navigator to our server, and it will help you find your way around. If you have any questions, feel free to ask a staff member in <#684015009755693071>.
+
+      So with that out of the way, where would you like to go?
+components:
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        placeholder: Pick a destination 🚏
+        options:
+          - label: City Hall
+            value: TinkerStorm/community@main#router/city-hall/$front-desk.yaml
+            description: Central guidance for the server
+            emoji:
+              name: 🏛
+          - label: Convenience Store
+            value: TinkerStorm/community@main#router/convenience-store/$store-front.yaml
+            description: Roles, perks and badges
+            emoji:
+              name: 🏪
+          - label: The Workshop
+            value: TinkerStorm/community@main#router/workshop/$lobby.yaml
+            description: What we're working on
+            emoji:
+              name: 🛠
+          - label: The Archives
+            value: TinkerStorm/community@main#router/archives/$hallway.yaml
+            description: Old and inactive projects
+            emoji:
+              name: 📚
+

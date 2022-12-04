@@ -1,0 +1,62 @@
+# 1019643103088476200 - storm-navigator (Guides)
+# 1019642988940500992 - storm-fury (Interests)
+embeds:
+  - author:
+      name: Channels - Page 2 of 4
+      icon_url: https://github.com/TinkerStorm/.github/raw/main/assets/channel.png
+    color: 4109300 # #3EB3F4 - Cornflower Blue
+    description: |
+       Some channels may have their own rules, or provide access to additional utilities.
+
+       `*` *Please use **spoilers** ||like these|| use them as you see fit in accordance with our rules.*
+
+       `*` *Webhooks are available for use in <#1019643103088476200> and <#1019643103088476200>.*
+       > *Ask a staff member for more information.*
+
+       `*` *If you have a post you'd like to share, but don't see a tag it would fit under, please ask a staff member.*
+    
+    footer:
+      text: City Hall
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/office-building_1f3e2.png
+    
+    fields:
+      - name: ":compass: Navigator"
+        inline: true
+        value: |
+          We may not have all the answers, but we can point you in the right direction. Guides are a great way to learn about a topic, and we have a few of them here.
+
+
+          <#1019643103088476200>
+      - name: ":fire: Storm Fury"
+        inline: true
+        value: |
+          This is a place to share your interests, hobbies, and passions. We have a few channels for specific interests, but if you don't see one that fits, feel free to make a new one.
+
+          <#1019642988940500992>
+      - name: ":cyclone: Storm Surge"
+        inline: true
+        value: |
+          What's your hot take? This is a place to share your opinions on a variety of topics, and to discuss them with others. Staff will handle creating these topics, but if you have a suggestion, feel free to ask.
+          <#1019643152333807676>
+      - name: ":pushpin: Headway"
+        inline: true
+        value: |
+          We all have goals, and we all want to share them. This is a place to share your progress, and to discuss your goals with others. You can also share your progress on a hobby, or a skill you're learning.
+
+          <#980491552302440538>
+      - name: ":recycle: Salvage"
+        inline: true
+        value: |
+          Share your ideas, your theories and your thoughts here, and let someone else take the lead. Mention the forum channel you think it would fit in, and any appropriate tags that would fit.
+
+          <#980491469620150344>
+      - name: ":frame_photo: Showcase"
+        inline: true
+        value: >
+          Staff may occasionally like a post enough to share it in this channel.
+          Don't be discouraged if your post doesn't get shared, everyone will have a fair chance to be featured.
+
+
+          <#980491502688014416>
+
+components: null

@@ -1,0 +1,36 @@
+embeds:
+  - author:
+      name: Sponsorship
+      icon_url: https://cdn.discordapp.com/emojis/946189993536262194.png
+    color: 14377378 # #DB61A2 - Pale Violet Red
+
+    description: |
+      We are a community of developers, driven to build exactly what we need to improve our community - and if it helps other communities in the process, that's even better! And we want to keep doing that, but we need your help to do so.
+
+      > *All sponsorship is currently routed through <@133659993768591360> as the sole core maintainer of this community.*
+
+    footer:
+      text: TinkerStorm is currently a 'team' of 1, but you make it more than that. Thank you.
+      icon_url: https://github.com/TinkerStorm.png
+
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        label: GitHub
+        url: https://github.com/sponsors/sudojunior
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        label: Ko-fi
+        url: https://ko-fi.com/sudojunior
+        emoji:
+          name: ☕
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/city-hall/$front-desk.yaml
+        emoji:
+          name: 🏛

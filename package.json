@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "sequence:info": "channel-backup --config ./info/config.json",
-    "sequence:readme": "channel-backup --config ./readme/config.json"
+    "sequence:router": "channel-backup --config ./router/config.json"
   },
   "dependencies": {
-    "channel-backup": "^1.1.1"
+    "channel-backup": "^1.2.5"
   }
 }

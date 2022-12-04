@@ -1,0 +1,7 @@
+embeds:
+  - title: ":dividers: Table of Contents"
+    color: RED
+    description: |
+      *Intended to be* a list of all message entries in this channel.
+
+      > This is not a functional list at the moment, but we will look at reviewing this as a feature for `channel-backup` in the near future.

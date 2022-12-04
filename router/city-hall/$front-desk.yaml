@@ -1,0 +1,44 @@
+embeds:
+  - title: City Hall
+    description: |
+      Welcome to City Hall! This is the central guidance for our community and it's projects. If you have any questions, feel free to ask a staff member in <#684015009755693071>. If you would like to contribute to our projects, please do by all means! We are always looking for new people to help out with our projects.
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/classical-building_1f3db-fe0f.png
+    color: 1149816 # #118B78 - Teal
+components:
+  - type: 1
+    components:
+      - type: 3
+        custom_id: pick-msg
+        placeholder: Select a room to enter
+        options:
+          - label: Community Map
+            value: TinkerStorm/community@main#router/city-hall/map.yaml
+            description: A map of our key channels and their purpose
+            emoji:
+              name: 🗺
+          - label: Creative Storm
+            value: TinkerStorm/community@main#router/city-hall/creative-storm/$eye-of-the-storm.yaml
+            description: Information about our category experiment
+            emoji:
+              name: ⛈
+          - label: External Contributions
+            value: TinkerStorm/community@main#router/city-hall/contributions.yaml
+            description: A list of projects we have contributed to outside of our own
+            emoji:
+              name: 🤝
+          - label: Attributions
+            value: TinkerStorm/community@main#router/city-hall/attributions.yaml
+            description: A list of people and projects that have helped us along the way
+            emoji:
+              name: 💌
+          - label: Upkeep
+            value: TinkerStorm/community@main#router/city-hall/upkeep.yaml
+            description: How do we keep the lights on?
+            emoji:
+              name: 💡
+          - label: Sponsor
+            value: TinkerStorm/community@main#router/city-hall/sponsor.yaml
+            description: Information about how you can support us
+            emoji:
+              id: 946189993536262194

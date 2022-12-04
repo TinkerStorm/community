@@ -1,0 +1,31 @@
+embeds:
+  - title: "Jekyll Projects"
+    color: 7564447 # #736C9F - Light Slate Gray
+    description: |
+      These projects are built with Jekyll, a static site generator that is built with Ruby.
+
+      > Most are archived or shelved, but they are still available to view.
+    
+      *All publicly available projects can be found on GitHub.*
+
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/globe-with-meridians_1f310.png
+    footer:
+      text: The Archives
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+
+    fields:
+      - name: ":park: `journey`"
+        inline: true
+        value: |
+          An attempt to create an IMDB-like website, with a focus on raw contributions from the community (from the layout to the entries themselves).
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/sudojunior/journey)
+      - name: ":boom: `comic-eureka`"
+        inline: true
+        value: |
+          A proof-of-concept for a comic reader, with a focus on customization by collection - built with Bootstrap and Jekyll.
+
+          > <:octocat:875393771112652840> [Repository](https://github.com/TinkerStorm/comic-eureka)
+
+components: null

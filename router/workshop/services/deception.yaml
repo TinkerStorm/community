@@ -1,0 +1,45 @@
+embeds:
+  - title: "`Deception`"
+    color: 8912896 # #880000 - Dark red
+    timestamp: 2021-12-25T21:07:58.000Z
+    thumbnail:
+      url: https://cdn.discordapp.com/avatars/454392901422809118/aa25b0ee5b412884c12908d17854f520.webp?size=128
+    description: |
+      How well do you know your friends?
+      Who can you trust?
+
+      ||How will you decide to betray your friends?
+      What will you sacrifice?||
+
+      > Ask a staff member for access to early testing.
+    fields:
+      - name: It had an older sibling...
+        value: |
+          ... and it was abandoned due to the pressure of the policy changes that Discord made, as well as my university studies. I was forced to choose, and despite that, it continues to be my greatest regret to this day - not even sure I will ever be able to forgive myself for it either.
+
+          Much of the notes that I made and the attempts at bringing it to life still remain, but is not in a state that I would be proud to show off. `Deception` is intended to be it's successor, and with the advancements on Discord since it's prior demise, I hope I can rectify my mistakes and make something that I can be proud of.
+
+          Until then, we'll take it one step at a time and make sure amends are made.
+    footer:
+      text: The Workshop
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/hammer-and-wrench_1f6e0-fe0f.png
+components:
+  - type: 1
+    components:
+      - type: 2
+        style: 5
+        url: https://github.com/TinkerStorm/interactive-prototypes
+        emoji:
+          id: "875393771112652840"
+      - type: 2
+        style: 5
+        label: Progress so far...
+        url: https://twitter.com/i/events/1524808431013609473
+        emoji:
+          id: "314349922877046786"
+      - type: 2
+        style: 4
+        label: Return
+        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        emoji:
+          name: "\U0001F6E0"

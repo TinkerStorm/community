@@ -1,0 +1,40 @@
+embeds:
+  - title: Game Jams
+    color: 8738524 # #9370DB - Medium Purple
+    description: |
+      Game Jams are a great way to learn and grow as a developer. Here are some of the projects <@&133659993768591360> has participated in.
+    footer:
+      text: The Archives
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/joystick_1f579-fe0f.png
+    fields:
+      - name: "Building Bridges - GGJ 2020"
+        inline: true
+        value: |
+          Roy, a recently single New Yorker, finds himself emotionally adrift...
+
+          > Built during Global Game Jam 2020, using [`Unity` 2018.4.2f1](https://unity.com/).
+
+          :video_game: [Play](https://globalgamejam.org/2020/games/building-bridges-8)
+          <:github:875393771112652840> [Source](https://github.com/sudojunior/GGJ2020_BuildingBridges)
+      - name: "Jaffa Cat Factory - #JingleCats2021"
+        inline: true
+        value: |
+          Inspired by Club Penguin's Pizza Chef... but with cats and jaffas. *It was made in 2 days.*
+
+          > Built using [`Unity` 2020.3.12f1](https://unity.com/).
+
+          :video_game: [Play](https://lucypoole.itch.io/jaffa-cats)
+          <:github:875393771112652840> ~~Source~~
+      - name: "Deserted Office - GGJ 2022"
+        inline: true
+        value: |
+          Deserted Office is a clicker game with an old flash game aesthetic.
+
+          > Built during Global Game Jam 2022, using [`Unity` 2020.3.12f1](https://unity.com/).
+
+          :video_game: [Play](https://globalgamejam.org/2022/games/deserted-office-4)
+          <:github:875393771112652840> [Source](https://github.com/sudojunior/GGJ2022_DesertedIsland)
+
+components: null

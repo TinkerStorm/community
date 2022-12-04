@@ -17,10 +17,8 @@ jobs:
       max-parallel: 1
       matrix:
         include:
-          - webhook: INFO_CHANNEL_WEBHOOK
-            command: info
-          - webhook: README_CHANNEL_WEBHOOK
-            command: readme
+          - webhook: ROUTER_CHANNEL_WEBHOOK
+            command: router
     steps:
       - name: Checkout
         uses: actions/checkout@v2
