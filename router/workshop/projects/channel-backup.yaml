@@ -1,7 +1,7 @@
 embeds:
   - title: '`channel-backup`'
     url: https://github.com/TinkerStorm/channel-backup
-    timestamp: 2020-07-15T15:03:46Z
+    timestamp: "2020-07-15T15:03:46Z"
     color: 4158973 # #3F75FD - Royal Blue
     description: |-
       A command line tool to help Community Managers keep their information channels updated.

@@ -2,7 +2,7 @@ embeds:
   - title: Turbo Eureka
     url: https://github.com/TinkerStorm/turbo-eureka
     color: 46203 # #00B47B - Dark cyan
-    timestamp: 2022-11-13T14:05:04Z
+    timestamp: "2022-11-13T14:05:04Z"
     thumbnail:
       url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/rocket_1f680.png
     description: |

@@ -2,7 +2,7 @@ embeds:
   - title: "`slash-create` Docs Bot"
     url: https://github.com/slash-create/docs-bot
     color: 15471664 # #EC1430 - Crimson
-    timestamp: 2022-07-13T14:30:49Z
+    timestamp: "2022-07-13T14:30:49Z"
     thumbnail:
       url: https://avatars.githubusercontent.com/u/109304262?s=200&v=4
     description: |

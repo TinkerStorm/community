@@ -1,7 +1,7 @@
 embeds:
   - title: "Slash `/counter`"
     color: 9001415 # #8959C7 - Slate Purple
-    timestamp: 2022-10-07T16:42:31Z
+    timestamp: "2022-10-07T16:42:31Z"
     description: |
       A serverless counter bot using message components, and without recorded state - hosted on Cloudflare Workers. We don't expect to use this bot for anything other than demonstration purposes for serverless architecture.
 

@@ -4,7 +4,7 @@
 embeds:
   - title: "`shuffle-theory`"
     color: 7300755 # #6F6693 - Slate Gray
-    timestamp: 2021-10-23T21:55:36Z
+    timestamp: "2021-10-23T21:55:36Z"
     description: |
       🃏 How can we shuffle a deck of cards in a way that is **consistent** and **fair**?
       💢 What are the **implications** of different approaches?

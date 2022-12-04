@@ -1,7 +1,7 @@
 embeds:
   - title: "`Deception`"
     color: 8912896 # #880000 - Dark red
-    timestamp: 2021-12-25T21:07:58.000Z
+    timestamp: "2021-12-25T21:07:58.000Z"
     thumbnail:
       url: https://cdn.discordapp.com/avatars/454392901422809118/aa25b0ee5b412884c12908d17854f520.webp?size=128
     description: |

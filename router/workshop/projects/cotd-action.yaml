@@ -2,7 +2,7 @@ embeds:
   - title: "`discord-cotd-action`"
     url: https://github.com/TinkerStorm/discord-cotd-action
     color: 43444 # #00A9B4 - Light Sea Green
-    timestamp: 2022-09-11T20:53:24Z
+    timestamp: "2022-09-11T20:53:24Z"
     description: |
       A GitHub Action to randomize the color of a role in Discord each time it is called upon.
 
