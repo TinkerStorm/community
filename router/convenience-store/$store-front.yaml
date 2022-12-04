@@ -15,17 +15,17 @@ components:
         custom_id: pick-msg
         options:
           - label: The Color Bucket
-            value: TinkerStorm/community@main#info/navigator/convenience-store/color-bucket.yaml
+            value: TinkerStorm/community@main#router/navigator/convenience-store/color-bucket.yaml
             description: Get a color role
             emoji:
               name: 🎨
           - label: The News Stand
-            value: TinkerStorm/community@main#info/navigator/convenience-store/news-stand.yaml
+            value: TinkerStorm/community@main#router/navigator/convenience-store/news-stand.yaml
             description: Subscribe to news roles
             emoji:
               name: 🗞
           - label: The Pinboard
-            value: TinkerStorm/community@main#info/navigator/convenience-store/pinboard.yaml
+            value: TinkerStorm/community@main#router/navigator/convenience-store/pinboard.yaml
             description: "??"
             emoji:
               name: 📌
@@ -35,6 +35,6 @@ components:
       - type: 2
         style: 1
         label: Return to the metro
-        custom_id: btn-msg:TinkerStorm/community@main#info/navigator.yaml
+        custom_id: btn-msg:TinkerStorm/community@main#router/navigator.yaml
         emoji:
           name: 🚇

@@ -34,6 +34,6 @@ components:
       - type: 2
         style: 2
         label: Return to the store front
-        custom_id: btn-msg:TinkerStorm/community@main#info/navigator/convenience-store/$store-front.yaml
+        custom_id: btn-msg:TinkerStorm/community@main#router/navigator/convenience-store/$store-front.yaml
         emoji:
           name: 🛍

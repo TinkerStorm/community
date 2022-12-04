@@ -65,4 +65,4 @@ components:
         label: Return to the store front
         emoji:
           name: 🏪
-        custom_id: btn-msg:TinkerStorm/community@main#router/souvenir-shop/$store-front.yaml
+        custom_id: btn-msg:TinkerStorm/community@main#router/convenience-store/$store-front.yaml

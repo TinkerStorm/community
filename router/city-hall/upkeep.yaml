@@ -31,6 +31,6 @@ components:
       - type: 2
         style: 4
         label: Return
-        custom_id: btn-msg:TinkerStorm/community@main#router/workshop/$lobby.yaml
+        custom_id: btn-msg:TinkerStorm/community@main#router/city-hall/$front-desk.yaml
         emoji:
-          name: "\U0001F6E0"
+          name: 🏛
