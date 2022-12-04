@@ -27,7 +27,7 @@ components:
         style: 5
         url: https://github.com/TinkerStorm/turbo-eureka
         emoji:
-          id: 875393771112652840
+          id: "875393771112652840"
       - type: 2
         style: 4
         label: Return
