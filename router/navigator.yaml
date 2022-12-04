@@ -30,7 +30,7 @@ components:
             emoji:
               name: 🛠
           - label: The Archives
-            value: TinkerStorm/community@main#router/archives/$hallway.yaml
+            value: TinkerStorm/community@main#router/archive/$hallway.yaml
             description: Old and inactive projects
             emoji:
               name: 📚
