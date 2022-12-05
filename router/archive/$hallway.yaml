@@ -58,6 +58,6 @@ components:
             emoji:
               name: 🤖
           - label: Game Jams
-            value: TinkerStorm/community@main#router/archive/projects/game-jams.yaml
+            value: TinkerStorm/community@main#router/archive/game-jams.yaml
             emoji:
               name: 🎮
