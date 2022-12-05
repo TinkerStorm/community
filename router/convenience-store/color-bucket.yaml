@@ -1,17 +1,18 @@
 embeds:
-  - description: |
+  - thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/artist-palette_1f3a8.png
+    footer:
+      text: The Convenience store
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/convenience-store_1f3ea.png
+    color: 12679993 # #C17B39 - Peru
+    description: |
       **```html
         
              <The = Color Bucket>       
         
       ```**
       > Deselect the default option to remove the color.
-    thumbnail:
-      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/artist-palette_1f3a8.png
-    footer:
-      text: The Convenience store
-      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/convenience-store_1f3ea.png
-    color: 12679993 # #C17B39 - Peru
+
 components:
   - type: 1
     components:
