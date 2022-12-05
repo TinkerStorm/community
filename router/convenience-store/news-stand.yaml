@@ -19,6 +19,7 @@ components:
       - type: 3
         custom_id: pick-role
         min_values: 0
+        max_values: 2
         options:
           - label: Server News
             value: "874695874704449627"
