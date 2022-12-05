@@ -2,7 +2,7 @@ embeds:
   - title: Game Jams
     color: 8738524 # #9370DB - Medium Purple
     description: |
-      Game Jams are a great way to learn and grow as a developer. Here are some of the projects <@&133659993768591360> has participated in.
+      Game Jams are a great way to learn and grow as a developer. Here are some of the projects <@133659993768591360> has participated in.
     footer:
       text: The Archives
       icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/books_1f4da.png
