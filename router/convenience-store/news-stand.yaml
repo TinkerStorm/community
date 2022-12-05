@@ -1,17 +1,18 @@
 embeds:
-  - description: |
+  - color: 4939509 # #4B5EF5 - Royal Blue
+    thumbnail:
+      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/rolled-up-newspaper_1f5de-fe0f.png
+    footer:
+      text: The Convenience Store
+      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/convenience-store_1f3ea.png
+    description: |
       **```html
         
               <The = News Stand>        
         
       ```**
       > Deselect all options to unsubscribe from all news roles.
-    color: 4939509 # #4B5EF5 - Royal Blue
-    thumbnail:
-      url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/rolled-up-newspaper_1f5de-fe0f.png
-    footer:
-      text: The Convenience Store
-      icon_url: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/convenience-store_1f3ea.png
+
 components:
   - type: 1
     components:
@@ -25,7 +26,7 @@ components:
             emoji:
               name: 📰
           - label: Project News
-            value: "874695874704449627"
+            value: "874685755514028092"
             description: Get notified when a project has news to share.
             emoji:
               name: 📦
