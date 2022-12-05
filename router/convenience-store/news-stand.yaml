@@ -22,7 +22,7 @@ components:
         max_values: 2
         options:
           - label: Server News
-            value: "874695874704449627"
+            value: "874685412663242752"
             description: Get notified when the server has news to share.
             emoji:
               name: 📰
@@ -38,4 +38,4 @@ components:
         label: Return to the store front
         custom_id: btn-msg:TinkerStorm/community@main#router/convenience-store/$store-front.yaml
         emoji:
-          name: 🛍
+          name: 🏪
