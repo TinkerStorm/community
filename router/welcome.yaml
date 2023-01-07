@@ -28,12 +28,7 @@ components:
           id: "314349922877046786"
       - type: 2
         style: 5
-        url: https://tinkerstorm.github.io/
-        disabled: true
+        url: https://ko-fi.com/sudojunior
+        label: Ko-fi
         emoji:
-          name: 🌐
-      - type: 2
-        style: 5
-        url: https://github.com/sponsors/sudojunior
-        emoji:
-          id: "946189993536262194"
+          id: "890248319119552603"

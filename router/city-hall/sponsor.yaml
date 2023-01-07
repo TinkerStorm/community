@@ -1,7 +1,7 @@
 embeds:
   - author:
       name: Sponsorship
-      icon_url: https://cdn.discordapp.com/emojis/946189993536262194.png
+      icon_url: https://cdn.discordapp.com/emojis/890248319119552603.png
     color: 14377378 # #DB61A2 - Pale Violet Red
 
     description: |
@@ -18,16 +18,17 @@ components:
     components:
       - type: 2
         style: 5
-        label: GitHub
-        url: https://github.com/sponsors/sudojunior
-        emoji:
-          id: "875393771112652840"
-      - type: 2
-        style: 5
         label: Ko-fi
         url: https://ko-fi.com/sudojunior
         emoji:
-          name: ☕
+          id: "890248319119552603"
+      - type: 2
+        style: 5
+        label: GitHub
+        disabled: true
+        url: https://github.com/sponsors/sudojunior
+        emoji:
+          id: "875393771112652840"
       - type: 2
         style: 4
         label: Return
