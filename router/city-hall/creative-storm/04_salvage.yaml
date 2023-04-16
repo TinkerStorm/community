@@ -32,5 +32,3 @@ embeds:
           *Future service expansion may permit the hosting of a local hastebin-like instance.*
 
           > When creating a post from this channel, be sure to include the `#Recycled` tag and mention the author source in your first message with a message link. This will help us keep track of where the idea came from, and who to credit. *If you're unsure of how to do this, ask a staff member.*
-
-components: null

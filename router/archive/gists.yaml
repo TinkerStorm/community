@@ -46,5 +46,3 @@ embeds:
           A proof-of-concept to add wildcard components to interactions with `slash-create`, built for Story Engine - which was later native to the library itself with [#188](https://github.com/Snazzah/slash-create/pull/188).
 
           > <:octocat:875393771112652840> [GitHub Gist](https://gist.github.com/sudojunior/e720cc1083c08d1258e9835d692b49b1)
-
-components: null

@@ -30,5 +30,3 @@ embeds:
           - **15 seconds** per message within a post
 
           Text channels have a **30 minute** slow mode per message.
-
-components: null
