@@ -1,7 +1,6 @@
 embeds:
   - author: 
       name: Community Rules
-      icon_url: https://raw.githubusercontent.com/TinkerStorm/community/main/assets/rules.png
     description: |
       `1.` Be respectful of others.
       `2.` No spam or unwanted advertising.

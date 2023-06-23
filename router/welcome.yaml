@@ -28,6 +28,9 @@ components:
           id: "314349922877046786"
       - type: 2
         style: 5
+        url: https://techhub.social/@tinkerstorm
+      - type: 2
+        style: 5
         url: https://ko-fi.com/sudojunior
         label: Ko-fi
         emoji:
