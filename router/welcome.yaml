@@ -29,6 +29,8 @@ components:
       - type: 2
         style: 5
         url: https://techhub.social/@tinkerstorm
+        emoji:
+          id: "1121765673727709204"
       - type: 2
         style: 5
         url: https://ko-fi.com/sudojunior
